@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ==============================================================================
-# Unified Fedora Netinstall FDE & Minimal GNOME Orchestrator
-# Coordinates: Pre-Install UI Patching, Post-Install Chroot, & LUKS Optimization
+# Beck-D/fedora-install-helper
+# Pre-Install UI Patching, Post-Install Chroot, & LUKS Optimization
 # ==============================================================================
 
 set -euo pipefail
